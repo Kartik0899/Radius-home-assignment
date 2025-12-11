@@ -1,0 +1,402 @@
+[
+    {
+      "id": "prop_001",
+      "title": "Modern Downtown Loft",
+      "type": "Apartment",
+      "price": 3500,
+      "size": 1200,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=400",
+      "features": ["Ac & Heating", "Dishwasher", "Pool"]
+    },
+    {
+      "id": "prop_002",
+      "title": "Luxury High-Rise Apartment",
+      "type": "Apartment",
+      "price": 4500,
+      "size": 1800,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=400",
+      "features": ["Ac & Heating", "Fitness Center", "Valet Parking", "Pool"]
+    },
+    {
+      "id": "prop_003",
+      "title": "Cozy Studio Apartment",
+      "type": "Apartment",
+      "price": 2200,
+      "size": 650,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1536376072261-38c75010e6c9?w=400",
+      "features": ["Ac & Heating"]
+    },
+    {
+      "id": "prop_004",
+      "title": "Victorian Family House",
+      "type": "House",
+      "price": 7500,
+      "size": 3200,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=400",
+      "features": ["Ac & Heating", "Dishwasher", "Balcony"]
+    },
+    {
+      "id": "prop_005",
+      "title": "Modern Office Space",
+      "type": "Office",
+      "price": 5000,
+      "size": 2000,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400",
+      "features": ["Ac & Heating", "Valet Parking"]
+    },
+    {
+      "id": "prop_006",
+      "title": "Retail Shop Downtown",
+      "type": "Shop",
+      "price": 4000,
+      "size": 1500,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400",
+      "features": ["Ac & Heating"]
+    },
+    {
+      "id": "prop_007",
+      "title": "Garden Apartment",
+      "type": "Apartment",
+      "price": 3200,
+      "size": 1100,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=400",
+      "features": ["Ac & Heating", "Balcony", "Pool"]
+    },
+    {
+      "id": "prop_008",
+      "title": "Executive Office Suite",
+      "type": "Office",
+      "price": 6500,
+      "size": 2500,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=400",
+      "features": ["Ac & Heating", "Fitness Center", "Valet Parking"]
+    },
+    {
+      "id": "prop_009",
+      "title": "Beachfront House",
+      "type": "House",
+      "price": 9500,
+      "size": 4000,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=400",
+      "features": ["Ac & Heating", "Dishwasher", "Balcony", "Pool", "Spa"]
+    },
+    {
+      "id": "prop_010",
+      "title": "Commercial Building",
+      "type": "Building",
+      "price": 15000,
+      "size": 8000,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400",
+      "features": ["Ac & Heating", "Valet Parking", "Fitness Center"]
+    },
+    {
+      "id": "prop_011",
+      "title": "Penthouse Suite",
+      "type": "Apartment",
+      "price": 8500,
+      "size": 2800,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=400",
+      "features": ["Ac & Heating", "Dishwasher", "Balcony", "Pool", "Spa", "Valet Parking"]
+    },
+    {
+      "id": "prop_012",
+      "title": "Boutique Retail Space",
+      "type": "Shop",
+      "price": 3500,
+      "size": 1200,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?w=400",
+      "features": ["Ac & Heating"]
+    },
+    {
+      "id": "prop_013",
+      "title": "Suburban Family Home",
+      "type": "House",
+      "price": 6500,
+      "size": 2800,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=400",
+      "features": ["Ac & Heating", "Dishwasher", "Balcony"]
+    },
+    {
+      "id": "prop_014",
+      "title": "Loft Apartment with View",
+      "type": "Apartment",
+      "price": 4200,
+      "size": 1500,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1502672023488-70e25813eb80?w=400",
+      "features": ["Ac & Heating", "Balcony", "Fitness Center"]
+    },
+    {
+      "id": "prop_015",
+      "title": "Tech Startup Office",
+      "type": "Office",
+      "price": 7000,
+      "size": 3000,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=400",
+      "features": ["Ac & Heating", "Fitness Center", "Clubhouse"]
+    },
+    {
+      "id": "prop_016",
+      "title": "Corner Shop with Parking",
+      "type": "Shop",
+      "price": 4500,
+      "size": 1800,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=400",
+      "features": ["Ac & Heating", "Valet Parking"]
+    },
+    {
+      "id": "prop_017",
+      "title": "Mixed-Use Building",
+      "type": "Building",
+      "price": 12000,
+      "size": 6500,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=400",
+      "features": ["Ac & Heating", "Valet Parking", "Pool", "Fitness Center"]
+    },
+    {
+      "id": "prop_018",
+      "title": "Compact Studio",
+      "type": "Apartment",
+      "price": 1800,
+      "size": 500,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=400",
+      "features": ["Ac & Heating"]
+    },
+    {
+      "id": "prop_019",
+      "title": "Charming Cottage",
+      "type": "House",
+      "price": 5500,
+      "size": 2200,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?w=400",
+      "features": ["Ac & Heating", "Balcony"]
+    },
+    {
+      "id": "prop_020",
+      "title": "Professional Office Space",
+      "type": "Office",
+      "price": 5500,
+      "size": 2200,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1497366412874-3415097a27e7?w=400",
+      "features": ["Ac & Heating", "Valet Parking"]
+    },
+    {
+      "id": "prop_021",
+      "title": "Restaurant Space",
+      "type": "Shop",
+      "price": 6000,
+      "size": 2500,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400",
+      "features": ["Ac & Heating", "Dishwasher"]
+    },
+    {
+      "id": "prop_022",
+      "title": "Two-Bedroom Apartment",
+      "type": "Apartment",
+      "price": 3800,
+      "size": 1400,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=400",
+      "features": ["Ac & Heating", "Dishwasher", "Balcony", "Pool"]
+    },
+    {
+      "id": "prop_023",
+      "title": "Historic Townhouse",
+      "type": "House",
+      "price": 8000,
+      "size": 3500,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=400",
+      "features": ["Ac & Heating", "Dishwasher", "Balcony"]
+    },
+    {
+      "id": "prop_024",
+      "title": "Corporate Office Floor",
+      "type": "Office",
+      "price": 9000,
+      "size": 4000,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=400",
+      "features": ["Ac & Heating", "Fitness Center", "Valet Parking", "Clubhouse"]
+    },
+    {
+      "id": "prop_025",
+      "title": "Luxury Apartment Complex",
+      "type": "Building",
+      "price": 18000,
+      "size": 10000,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=400",
+      "features": ["Ac & Heating", "Pool", "Spa", "Fitness Center", "Valet Parking", "Clubhouse"]
+    },
+    {
+      "id": "prop_026",
+      "title": "Coffee Shop Space",
+      "type": "Shop",
+      "price": 3000,
+      "size": 1000,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=400",
+      "features": ["Ac & Heating"]
+    },
+    {
+      "id": "prop_027",
+      "title": "Contemporary Loft",
+      "type": "Apartment",
+      "price": 4800,
+      "size": 1600,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=400",
+      "features": ["Ac & Heating", "Balcony", "Dishwasher"]
+    },
+    {
+      "id": "prop_028",
+      "title": "Spacious Family House",
+      "type": "House",
+      "price": 7200,
+      "size": 3800,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=400",
+      "features": ["Ac & Heating", "Dishwasher", "Balcony", "Pool"]
+    },
+    {
+      "id": "prop_029",
+      "title": "Shared Office Space",
+      "type": "Office",
+      "price": 2500,
+      "size": 800,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=400",
+      "features": ["Ac & Heating", "Clubhouse"]
+    },
+    {
+      "id": "prop_030",
+      "title": "Gallery Retail Space",
+      "type": "Shop",
+      "price": 5500,
+      "size": 2000,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1582037928769-181f2644ecb7?w=400",
+      "features": ["Ac & Heating", "Valet Parking"]
+    },
+    {
+      "id": "prop_031",
+      "title": "Waterfront Apartment",
+      "type": "Apartment",
+      "price": 5200,
+      "size": 1900,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=400",
+      "features": ["Ac & Heating", "Dishwasher", "Balcony", "Pool", "Spa"]
+    },
+    {
+      "id": "prop_032",
+      "title": "Modern Villa",
+      "type": "House",
+      "price": 10000,
+      "size": 4500,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=400",
+      "features": ["Ac & Heating", "Dishwasher", "Balcony", "Pool", "Spa", "Fitness Center"]
+    },
+    {
+      "id": "prop_033",
+      "title": "Office Building Complex",
+      "type": "Building",
+      "price": 20000,
+      "size": 12000,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400",
+      "features": ["Ac & Heating", "Valet Parking", "Fitness Center", "Clubhouse"]
+    },
+    {
+      "id": "prop_034",
+      "title": "Fashion Boutique",
+      "type": "Shop",
+      "price": 4200,
+      "size": 1400,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?w=400",
+      "features": ["Ac & Heating"]
+    },
+    {
+      "id": "prop_035",
+      "title": "Student Apartment",
+      "type": "Apartment",
+      "price": 2000,
+      "size": 600,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1536376072261-38c75010e6c9?w=400",
+      "features": ["Ac & Heating", "Fitness Center"]
+    },
+    {
+      "id": "prop_036",
+      "title": "Ranch House",
+      "type": "House",
+      "price": 6800,
+      "size": 3000,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=400",
+      "features": ["Ac & Heating", "Balcony", "Pool"]
+    },
+    {
+      "id": "prop_037",
+      "title": "Medical Office",
+      "type": "Office",
+      "price": 6000,
+      "size": 2200,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=400",
+      "features": ["Ac & Heating", "Valet Parking"]
+    },
+    {
+      "id": "prop_038",
+      "title": "High-Rise Office Tower",
+      "type": "Building",
+      "price": 25000,
+      "size": 15000,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=400",
+      "features": ["Ac & Heating", "Valet Parking", "Fitness Center", "Clubhouse", "Spa"]
+    },
+    {
+      "id": "prop_039",
+      "title": "Bakery Shop",
+      "type": "Shop",
+      "price": 3200,
+      "size": 1100,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=400",
+      "features": ["Ac & Heating", "Dishwasher"]
+    },
+    {
+      "id": "prop_040",
+      "title": "Luxury Penthouse",
+      "type": "Apartment",
+      "price": 9500,
+      "size": 3200,
+      "location": "San Francisco",
+      "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=400",
+      "features": ["Ac & Heating", "Dishwasher", "Balcony", "Pool", "Spa", "Fitness Center", "Valet Parking"]
+    }
+  ]
